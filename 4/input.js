@@ -1,9 +1,9 @@
 regExps = {
-"exercise_1": /Internet|Words|Or/,
-"exercise_2": /088[1-7]{7}/,
+"exercise_1": /[A-Z][a-z]+/,
+"exercise_2": /088[1-7][0-7]{6}/,
 "exercise_3": /[^01]+/,
 "exercise_4": /^[a-zA-Z]([._]|[a-zA-Z0-9]){2,20}$/,
-"exercise_5": /(999|1[0-4][0-9]{2}|1500)/,
+"exercise_5": /(^[0-9]{1,3}$|1[0-4][0-9]{2}|1500)/,
 "exercise_6": /class=['"].*['"]/
 };
 cssSelectors = {
