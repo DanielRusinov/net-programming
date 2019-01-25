@@ -1,0 +1,57 @@
+
+Hashes per second:
+1. 3135126
+2. 3221974
+3. 3247870
+
+====================================================
+
+You guessed right 1 byte long array's hash!
+It took you only: 25 tries!
+And time of 13 milliseconds!
+
+You guessed right 1 byte long array's hash!
+It took you only: 58 tries!
+And time of 15 milliseconds!
+
+You guessed right 1 byte long array's hash!
+It took you only: 179 tries!
+And time of 20 milliseconds!
+
+AVG = 16 milliseconds = 0,016 seconds
+
+====================================================
+
+You guessed right 2 byte long array's hash!
+It took you only: 2958 tries!
+And time of 68 milliseconds
+
+You guessed right 2 byte long array's hash!
+It took you only: 74224 tries!
+And time of 457 milliseconds!
+
+You guessed right 2 byte long array's hash!
+It took you only: 80049 tries!
+And time of 440 milliseconds!
+
+AVG = 321.67 milliseconds = 0,321666 seconds
+
+====================================================
+
+You guessed right 3 byte long array's hash!
+It took you only: 13561111 tries!
+And time of 57990 milliseconds! (57,9 seconds)
+
+You guessed right 3 byte long array's hash!
+It took you only: 19057711 tries!
+And time of 79774 milliseconds! (79,7 seconds)
+
+You guessed right 3 byte long array's hash!
+It took you only: 11816772 tries!
+And time of 50406 milliseconds! (50 seconds)
+
+AVG = 62,53 seconds...
+
+====================================================
+
+It is really just a luck...
